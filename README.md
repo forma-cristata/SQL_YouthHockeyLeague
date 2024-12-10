@@ -1,5 +1,4 @@
 # SQL_YouthHockeyLeague
-# Scratch Paper
 
 # Puck Pro - Youth Hockey League Management System
 
