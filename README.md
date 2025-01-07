@@ -1,5 +1,3 @@
-# SQL_YouthHockeyLeague
-
 # Puck Pro - Youth Hockey League Management System
 
 A comprehensive database solution for a Hockey youth league management platform.
