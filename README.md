@@ -2,6 +2,9 @@
 
 A comprehensive database solution for a Hockey youth league management platform.
 
+![image](https://github.com/user-attachments/assets/b824bff5-481f-4a88-a8e9-77752b8ef3e4)
+
+
 ## Project Overview
 
 Successfully designed and implemented a scalable database system for managing youth hockey leagues. The system handles player rosters, game scheduling, referee assignments, and team management efficiently.
